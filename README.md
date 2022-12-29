@@ -23,14 +23,16 @@ code .
 
 ## Contributing
 
-Pull requestler kabul edilir. BÜyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 -
-![Resim](https://drive.google.com/file/d/1ABrC9gL8kCAci3A17is8JEi8Au5XDAaf/view?usp=sharing)
+
+
+![](https://drive.google.com/file/d/1ABrC9gL8kCAci3A17is8JEi8Au5XDAaf/view?usp=sharing)
 
 
 
