@@ -29,10 +29,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
--
-
-
-![](https://drive.google.com/file/d/1ABrC9gL8kCAci3A17is8JEi8Au5XDAaf/view?usp=sharing)
+![Fotoğraf](https://drive.google.com/file/d/1ABrC9gL8kCAci3A17is8JEi8Au5XDAaf/view?usp=sharing)
 
 
 
