@@ -6,6 +6,10 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 
 Öncellikle clonelayın.
 
+```
+https://github.com/j1n4g4/kodluyoryuzilkrepo
+```
+
 ## Usege
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
